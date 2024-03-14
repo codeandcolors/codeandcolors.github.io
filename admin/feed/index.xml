@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; Demo</title>
-	<atom:link href="https://codeandcolors.github.io/author/admin/feed/?simply_static_page=756" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codeandcolors.github.io/author/admin/feed/?simply_static_page=1084" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Mar 2024 05:03:07 +0000</lastBuildDate>
@@ -27,7 +27,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 06 Mar 2024 05:03:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://codeandcolors.github.io/?p=1</guid>
+		<guid isPermaLink="false">http://localhost:8080/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[

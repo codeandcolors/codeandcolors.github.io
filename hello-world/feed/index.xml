@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Kommentare zu: Hello world!	</title>
-	<atom:link href="http://192.168.2.41/hello-world/feed/?simply_static_page=779" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codeandcolors.github.io/hello-world/feed/?simply_static_page=1109" rel="self" type="application/rss+xml" />
 	<link>/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Mar 2024 05:03:07 +0000</lastBuildDate>
@@ -24,7 +24,7 @@
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 06 Mar 2024 05:03:07 +0000</pubDate>
-		<guid isPermaLink="false">https://codeandcolors.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://localhost:8080/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
