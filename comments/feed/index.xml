@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Kommentare für Demo	</title>
-	<atom:link href="https://codeandcolors.github.io/comments/feed/?simply_static_page=1041" rel="self" type="application/rss+xml" />
+	<atom:link href="http://192.168.2.41/comments/feed/?simply_static_page=1536" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 06 Mar 2024 05:03:07 +0000</lastBuildDate>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 	<item>
 		<title>
 		Kommentar zu Hello world! von A WordPress Commenter		</title>
@@ -24,7 +24,7 @@
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 06 Mar 2024 05:03:07 +0000</pubDate>
-		<guid isPermaLink="false">https://codeandcolors.github.io/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://localhost:8080/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
