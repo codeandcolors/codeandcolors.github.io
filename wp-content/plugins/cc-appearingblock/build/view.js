@@ -1,1 +1,0 @@
-(()=>{"use strict";const e=document.getElementsByClassName("animatedBlock"),t=new IntersectionObserver(((e,t)=>{for(const t of e)t.isIntersecting&&t.target.classList.add("viewed")}),{rootMargin:"-20%"});for(const s of e)t.observe(s)})();
